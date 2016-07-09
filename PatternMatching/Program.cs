@@ -10,6 +10,7 @@ namespace PatternMatching
     {
         static void Main(string[] args)
         {
+            
         }
 
         static void ProcessProduct(BaseProduct p)
